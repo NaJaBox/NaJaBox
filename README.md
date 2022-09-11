@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nagy Janos</h1>
-<h3 align="center">A passionate full stack developer student</h3>
+![alt](https://github.com/NaJaBox/NaJaBox/blob/main/github-banner.png)
 
 - 🌱 I’m currently learning: **JS**
 
