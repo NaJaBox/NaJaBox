@@ -1,4 +1,5 @@
-![alt](https://github.com/NaJaBox/NaJaBox/blob/main/github-banner.png)
+<img src="https://github.com/NaJaBox/NaJaBox/blob/main/github-banner.png" width="1280" />
+
 
 - 🌱 I’m currently learning: **JS**
 
