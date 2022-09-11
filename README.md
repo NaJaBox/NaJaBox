@@ -1,4 +1,4 @@
-<img src="https://github.com/NaJaBox/NaJaBox/blob/main/banner.png" width="1280" />
+<img src="https://github.com/NaJaBox/NaJaBox/blob/main/banner2.PNG" width="1280" />
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=najabox&label=Profile%20views&color=0e75b6&style=flat" alt="najabox" /> </p><br><br>
 
