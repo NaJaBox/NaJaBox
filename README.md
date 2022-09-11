@@ -1,9 +1,8 @@
 <img src="https://github.com/NaJaBox/NaJaBox/blob/main/github-banner.png" width="1280" />
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=najabox&label=Profile%20views&color=0e75b6&style=flat" alt="najabox" /> </p><br><br>
-- 🌱 I’m currently learning: **JS**
 
-<!-- - 👨‍💻 All of my projects are available at [www.nagyjanos.de](www.nagyjanos.de) -->
+- 🌱 I’m currently learning: **JS**
 
 - 💬 Ask me about **HTML, CSS, SASS**<br>
 
