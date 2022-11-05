@@ -12,10 +12,12 @@
 
 <img src="https://github.com/NaJaBox/NaJaBox/blob/main/giphy.gif" align="right" width="50%" height="420" />
 
-<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=najabox&show_icons=true&locale=en&layout=compact" alt="najabox" /></p>
+<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=najabox&show_icons=true&locale=en&layout=compact&count_private=true" alt="najabox" /></p>
 
-<p>&nbsp;<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=najabox&show_icons=true&locale=en" alt="najabox" /></p>
+<p>&nbsp;<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=najabox&show_icons=true&locale=en&count_private=true" alt="najabox" /></p>
 
-<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=najabox&" alt="najabox" /></p><br>
+<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=najabox&count_private=true" alt="najabox" /></p><br>
+
+
 
 
