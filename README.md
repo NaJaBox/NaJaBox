@@ -1,6 +1,7 @@
 <img src="https://github.com/NaJaBox/NaJaBox/blob/main/banner2.PNG" width="1280" />
 
 <p><img align="left" src="https://komarev.com/ghpvc/?username=najabox&label=Profile%20views&color=0e75b6&style=flat" alt="najabox" /> </p><br><br>
+
 - 🌱 I’m currently learning: **TypeScript** and **Next.js**
 
 <h3 align="left">Languages and Tools:</h3>
