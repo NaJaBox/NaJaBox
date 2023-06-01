@@ -21,4 +21,4 @@
 
 <p></p>
 
-<img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true" align="left" alt="najabox">
+[![Online](https://img.shields.io/badge/Status-Online-brightgreen)]()
