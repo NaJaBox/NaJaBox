@@ -11,7 +11,7 @@
 
 <p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najabox&layout=compact" alt="najabox" /></p>
 
-<p>&nbsp;<img align="left" width="40%" src="https://github-readme-stats.herokuapp.com?username=najabox&show_icons=true&locale=en&count_private=true" alt="najabox" /></p>
+<span>&nbsp;<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=najabox&show_icons=true&locale=en&count_private=true" alt="najabox" /></span>
 
 <p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=najabox&https://git.io/streak-stats" alt="najabox" /></p><br>
 
