@@ -27,11 +27,9 @@
 
 <p></p>
 
-<span style="display: inline-block; border: 1px solid black; border-radius: 10px; width: 300px; height: auto;">
-  ![SelectedProjectsBold](https://user-images.githubusercontent.com/100665876/232926515-84e8bc7f-14dc-4729-a274-38735ab4963a.jpeg)
-</span>
-<span style="color: lightblue; font-size: 12px;">(Note: Right-click and select "Open Link in New Tab/Window" to view the website.)</span>
 
+
+<span style="color: red; font-size: 12px">(Note: Right-click and select "Open Link in New Tab/Window" to view the website.)</span>
 
 <br clear="all">
 
