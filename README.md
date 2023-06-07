@@ -35,7 +35,7 @@
 <p></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=100&section=footer" style="transform: scaleY(-1);"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&width=100">
 </p>
 
 - [WeatherApp ](https://njk-weather-app.netlify.app/){target="_blank"} | take a look before you go for a walk 😎
