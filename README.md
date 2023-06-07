@@ -34,7 +34,11 @@
 
 <p></p>
 
-- <a href="https://njk-weather-app.netlify.app/" target="_blank" rel="noopener noreferrer">WeatherApp</a> | take a look before you go for a walk 😎
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=100&section=footer" style="transform: scaleY(-1);"/>
+</p>
+
+- [WeatherApp ](https://njk-weather-app.netlify.app/){target="_blank"} | take a look before you go for a walk 😎
 - [Syntch](https://syntch-deploy.onrender.com/landingpage) | a JavaScript syntax learning game 🎮
 - [Speed Boat](https://speed-boat.netlify.app/) | a class assignment turned into a animation project ⛵
 - [Logo](https://logo-aniamtion.netlify.app/) | an animation of my initials 🤟
