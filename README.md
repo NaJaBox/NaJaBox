@@ -27,8 +27,7 @@
 
 <p></p>
 
-
-
+<img src="https://user-images.githubusercontent.com/100665876/232926515-84e8bc7f-14dc-4729-a274-38735ab4963a.jpeg" alt="SelectedProjectsBold" style="border: 1px solid black; border-radius: 10px; width: 300px; height: auto;">
 <span style="color: red; font-size: 12px">(Note: Right-click and select "Open Link in New Tab/Window" to view the website.)</span>
 
 <br clear="all">
@@ -40,4 +39,6 @@
 - [Speed Boat](https://speed-boat.netlify.app/) | a class assignment turned into a animation project ⛵
 - [Logo](https://speed-boat.netlify.app/) | an animation of my initials 🤟
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
