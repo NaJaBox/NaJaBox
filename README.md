@@ -37,7 +37,7 @@
 
 <p></p>
 
-- [WeatherApp ](https://njk-weather-app.netlify.app/){target="_blank"} | take a look before you go for a walk 😎
+- [WeatherApp ](https://njk-weather-app.netlify.app/) | take a look before you go for a walk 😎
 - [Syntch](https://syntch-deploy.onrender.com/landingpage) | a JavaScript syntax learning game 🎮
 - [Speed Boat](https://speed-boat.netlify.app/) | a class assignment turned into a animation project ⛵
 - [Logo](https://logo-aniamtion.netlify.app/) | an animation of my initials 🤟
