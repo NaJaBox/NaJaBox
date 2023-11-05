@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=najabox&show_icons=true&locale=en&count_private=true&theme=transparent" width="40%" align="left" alt="najabox">
 
-<img src="https://streak-stats.demolab.com?user=najabox&https://git.io/streak-stats&theme=tokyonight-duo" width="40%" align="left" alt="najabox">
+<img src="https://streak-stats.demolab.com?user=najabox&https://git.io/streak-stats&theme=transparent" width="40%" align="left" alt="najabox">
 
 
 <br clear="all">
